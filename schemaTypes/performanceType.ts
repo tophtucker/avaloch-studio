@@ -27,6 +27,23 @@ export const performanceType = defineType({
       title: 'Note',
     }),
   ],
+  orderings: [
+    {
+      title: 'Time, newest',
+      name: 'timeDesc',
+      by: [{field: 'time', direction: 'desc'}],
+    },
+    {
+      title: 'Time, oldest',
+      name: 'timeAsc',
+      by: [{field: 'time', direction: 'asc'}],
+    },
+    {
+      title: 'Note, A-Z',
+      name: 'note',
+      by: [{field: 'note', direction: 'asc'}],
+    },
+  ],
   preview: {
     select: {
       date: 'time',
