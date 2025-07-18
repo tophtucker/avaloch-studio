@@ -30,13 +30,13 @@ export const performanceType = defineType({
   orderings: [
     {
       title: 'Time, newest',
-      name: 'timeDesc',
-      by: [{field: 'time', direction: 'desc'}],
+      name: 'endTimeDesc',
+      by: [{field: 'endTime', direction: 'desc'}],
     },
     {
       title: 'Time, oldest',
-      name: 'timeAsc',
-      by: [{field: 'time', direction: 'asc'}],
+      name: 'endTimeAsc',
+      by: [{field: 'endTime', direction: 'asc'}],
     },
     {
       title: 'Note, A-Z',

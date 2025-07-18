@@ -29,4 +29,21 @@ export const bulletinType = defineType({
       of: [{type: 'block'}],
     }),
   ],
+  orderings: [
+    {
+      title: 'Start time, newest',
+      name: 'startTimeDesc',
+      by: [{field: 'startTime', direction: 'desc'}],
+    },
+    {
+      title: 'Start time, oldest',
+      name: 'startTimeAsc',
+      by: [{field: 'startTime', direction: 'asc'}],
+    },
+    {
+      title: 'Text, A-Z',
+      name: 'textAsc',
+      by: [{field: 'text', direction: 'asc'}],
+    },
+  ],
 })
