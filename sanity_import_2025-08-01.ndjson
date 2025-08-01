@@ -1,0 +1,275 @@
+{"_id":"act-0","_type":"act","name":"The Lucky 3"}
+{"_id":"act-1","_type":"act","name":"Milton Trio"}
+{"_id":"act-2","_type":"act","name":"Jordan Weller"}
+{"_id":"act-3","_type":"act","name":"Paper Anniversary"}
+{"_id":"act-4","_type":"act","name":"Tom Turci"}
+{"_id":"act-5","_type":"act","name":"Glori Wilder"}
+{"_id":"act-6","_type":"act","name":"Katherine Winston & Michael Aaron"}
+{"_id":"act-7","_type":"act","name":"Hannah Bracken & Katie Herbst"}
+{"_id":"act-8","_type":"act","name":"Sarah Grella"}
+{"_id":"act-9","_type":"act","name":"Bobby MacVeety Trio"}
+{"_id":"act-10","_type":"act","name":"Jenna Nicholls"}
+{"_id":"act-11","_type":"act","name":"The Wild Weeeds"}
+{"_id":"act-12","_type":"act","name":"Kathleen Parks"}
+{"_id":"act-13","_type":"act","name":"Michael Lesko Trio"}
+{"_id":"act-14","_type":"act","name":"Billy Keane"}
+{"_id":"act-15","_type":"act","name":"Chantell"}
+{"_id":"act-16","_type":"act","name":"Colby Lewis & Steve Ide"}
+{"_id":"act-17","_type":"act","name":"Honeysuckle"}
+{"_id":"act-18","_type":"act","name":"Hannah Bracken & Wes Buckley"}
+{"_id":"act-19","_type":"act","name":"Sean Kobuk"}
+{"_id":"act-20","_type":"act","name":"The Lucky 5"}
+{"_id":"act-21","_type":"act","name":"Luke Franco Trio"}
+{"_id":"act-22","_type":"act","name":"Unfinish’d Bizness"}
+{"_id":"act-23","_type":"act","name":"Harris MacDonald"}
+{"_id":"act-24","_type":"act","name":"Prashad Abeysinghe"}
+{"_id":"act-25","_type":"act","name":"Andy Wrba, Benny Kohn, Conor Meehan"}
+{"_id":"act-26","_type":"act","name":"The Twangbuster Three"}
+{"_id":"act-27","_type":"act","name":"Rounders Revival"}
+{"_id":"act-28","_type":"act","name":"High Tea"}
+{"_id":"act-29","_type":"act","name":"The Wolves"}
+{"_id":"act-30","_type":"act","name":"Trae Sheehan"}
+{"_id":"act-31","_type":"act","name":"Evan Lanoue Band"}
+{"_id":"act-32","_type":"act","name":"Rees Shad Trio"}
+{"_id":"act-33","_type":"act","name":"Tristan Geary"}
+{"_id":"act-34","_type":"act","name":"Chris Merenda Trio"}
+{"_id":"act-35","_type":"act","name":"Tim Regusis Trio"}
+{"_id":"act-36","_type":"act","name":"Chris Murphy"}
+{"_id":"act-37","_type":"act","name":"Rounders Revival & Andy Wrba Trio"}
+{"_id":"act-38","_type":"act","name":"Barbara Stein"}
+{"_id":"act-39","_type":"act","name":"Arlen Hart Ginsburg Trio"}
+{"_id":"act-40","_type":"act","name":"Hannah Bracken"}
+{"_id":"act-41","_type":"act","name":"Anthony Bonneville"}
+{"_id":"act-42","_type":"act","name":"Mark Phillips Trio"}
+{"_id":"act-43","_type":"act","name":"Trae Sheehan Duo"}
+{"_id":"act-44","_type":"act","name":"Mike Cobb & The Crevulators"}
+{"_id":"act-45","_type":"act","name":"Riley Cotton & Barbara Stein"}
+{"_id":"act-46","_type":"act","name":"5 Pound Horse"}
+{"_id":"act-47","_type":"act","name":"Ian Macdonald Trio"}
+{"_id":"act-48","_type":"act","name":"Camellia"}
+{"_id":"act-49","_type":"act","name":"Misty Blues"}
+{"_id":"act-50","_type":"act","name":"Stompbox Trio"}
+{"_id":"act-51","_type":"act","name":"Wanda Houston"}
+{"_id":"act-52","_type":"act","name":"Aimee Van Dyne"}
+{"_id":"act-53","_type":"act","name":"Lonny Jarrett & Friends"}
+{"_id":"act-54","_type":"act","name":"Katherine Winston"}
+{"_id":"act-55","_type":"act","name":"Whistle & Stack"}
+{"_id":"act-56","_type":"act","name":"Jesper Lindell & Friends"}
+{"_id":"act-57","_type":"act","name":"Good Vibes Organ Trio"}
+{"_id":"act-58","_type":"act","name":"Clare Maloney"}
+{"_id":"act-59","_type":"act","name":"Andy Wrba & Friends"}
+{"_id":"act-60","_type":"act","name":"Melissa Brinton"}
+{"_id":"act-61","_type":"act","name":"Pamela Knowles"}
+{"_id":"act-62","_type":"act","name":"Mary Ann Palermo Jazz Trio"}
+{"_id":"act-63","_type":"act","name":"Riley Cotton Trio"}
+{"_id":"act-64","_type":"act","name":"Jack Waldheim & Pete Adams"}
+{"_id":"act-65","_type":"act","name":"Riverbend"}
+{"_id":"act-66","_type":"act","name":"Flophouse Follies"}
+{"_id":"act-67","_type":"act","name":"Andy Wrba & Wanda Houston"}
+{"_id":"act-68","_type":"act","name":"The Fremonts"}
+{"_id":"act-69","_type":"act","name":"Sample the Cat"}
+{"_id":"act-70","_type":"act","name":"Andy Wrba & Billy Keene"}
+{"_id":"act-71","_type":"act","name":"Elijah Stone"}
+{"_id":"act-72","_type":"act","name":"Johnny Irion"}
+{"_id":"act-73","_type":"act","name":"Will Hudgins Jazz Quartet"}
+{"_id":"act-74","_type":"act","name":"Oropendola and Aerhart"}
+{"_id":"perf-0","_type":"performance","startTime":"2024-06-19T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-0"}}
+{"_id":"perf-1","_type":"performance","startTime":"2024-06-22T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-1"}}
+{"_id":"perf-2","_type":"performance","startTime":"2024-06-26T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-2"}}
+{"_id":"perf-3","_type":"performance","startTime":"2024-06-29T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-3"}}
+{"_id":"perf-4","_type":"performance","startTime":"2024-07-06T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-4"}}
+{"_id":"perf-5","_type":"performance","startTime":"2024-07-10T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-5"}}
+{"_id":"perf-6","_type":"performance","startTime":"2024-07-13T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-6"}}
+{"_id":"perf-7","_type":"performance","startTime":"2024-07-17T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-7"}}
+{"_id":"perf-8","_type":"performance","startTime":"2024-07-20T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-8"}}
+{"_id":"perf-9","_type":"performance","startTime":"2024-07-24T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-9"}}
+{"_id":"perf-10","_type":"performance","startTime":"2024-07-27T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-10"}}
+{"_id":"perf-11","_type":"performance","startTime":"2024-07-31T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-11"}}
+{"_id":"perf-12","_type":"performance","startTime":"2024-08-03T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-6"}}
+{"_id":"perf-13","_type":"performance","startTime":"2024-08-07T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-12"}}
+{"_id":"perf-14","_type":"performance","startTime":"2024-08-10T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-13"}}
+{"_id":"perf-15","_type":"performance","startTime":"2024-08-14T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-14"}}
+{"_id":"perf-16","_type":"performance","startTime":"2024-08-17T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-15"}}
+{"_id":"perf-17","_type":"performance","startTime":"2024-08-21T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-16"}}
+{"_id":"perf-18","_type":"performance","startTime":"2024-08-24T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-17"}}
+{"_id":"perf-19","_type":"performance","startTime":"2024-08-28T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-0"}}
+{"_id":"perf-20","_type":"performance","startTime":"2024-08-31T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-18"}}
+{"_id":"perf-21","_type":"performance","startTime":"2024-09-11T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-19"}}
+{"_id":"perf-22","_type":"performance","startTime":"2024-09-14T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-20"}}
+{"_id":"perf-23","_type":"performance","startTime":"2024-09-18T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-10"}}
+{"_id":"perf-24","_type":"performance","startTime":"2024-09-21T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-21"}}
+{"_id":"perf-25","_type":"performance","startTime":"2024-09-25T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-16"}}
+{"_id":"perf-26","_type":"performance","startTime":"2024-09-28T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-22"}}
+{"_id":"perf-27","_type":"performance","startTime":"2024-10-02T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-16"}}
+{"_id":"perf-28","_type":"performance","startTime":"2024-10-03T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-0"}}
+{"_id":"perf-29","_type":"performance","startTime":"2024-10-04T20:00:00.000Z","endTime":"2024-10-04T23:00:00.000Z","noTime":false,"note":"Piano in the lobby","act":{"_type":"reference","_ref":"act-23"}}
+{"_id":"perf-30","_type":"performance","startTime":"2024-10-04T23:00:00.000Z","endTime":"2024-10-05T01:00:00.000Z","noTime":false,"note":"Bachata night","act":{"_type":"reference","_ref":"act-24"}}
+{"_id":"perf-31","_type":"performance","startTime":"2024-10-05T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-15"}}
+{"_id":"perf-32","_type":"performance","startTime":"2024-10-09T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-16"}}
+{"_id":"perf-33","_type":"performance","startTime":"2024-10-10T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-21"}}
+{"_id":"perf-34","_type":"performance","startTime":"2024-10-11T20:00:00.000Z","endTime":"2024-10-11T23:00:00.000Z","noTime":false,"note":"Piano in the lobby","act":{"_type":"reference","_ref":"act-23"}}
+{"_id":"perf-35","_type":"performance","startTime":"2024-10-11T23:00:00.000Z","endTime":"2024-10-12T01:30:00.000Z","noTime":false,"note":"Salsa night","act":{"_type":"reference","_ref":"act-24"}}
+{"_id":"perf-36","_type":"performance","startTime":"2024-10-12T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-3"}}
+{"_id":"perf-37","_type":"performance","startTime":"2024-10-16T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-16"}}
+{"_id":"perf-38","_type":"performance","startTime":"2024-10-17T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-0"}}
+{"_id":"perf-39","_type":"performance","startTime":"2024-10-18T20:00:00.000Z","endTime":"2024-10-18T23:00:00.000Z","noTime":false,"note":"Piano in the lobby","act":{"_type":"reference","_ref":"act-23"}}
+{"_id":"perf-40","_type":"performance","startTime":"2024-10-20T00:30:00.000Z","endTime":"2024-10-20T02:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-25"}}
+{"_id":"perf-41","_type":"performance","startTime":"2024-10-23T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-16"}}
+{"_id":"perf-42","_type":"performance","startTime":"2024-10-24T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-0"}}
+{"_id":"perf-43","_type":"performance","startTime":"2024-10-25T20:00:00.000Z","endTime":"2024-10-25T23:00:00.000Z","noTime":false,"note":"Piano in the lobby","act":{"_type":"reference","_ref":"act-23"}}
+{"_id":"perf-44","_type":"performance","startTime":"2024-10-25T23:00:00.000Z","endTime":"2024-10-26T01:30:00.000Z","noTime":false,"note":"Salsa night","act":{"_type":"reference","_ref":"act-24"}}
+{"_id":"perf-45","_type":"performance","startTime":"2024-10-26T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-26"}}
+{"_id":"perf-46","_type":"performance","startTime":"2024-10-30T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-16"}}
+{"_id":"perf-47","_type":"performance","startTime":"2024-10-31T04:00:00.000Z","endTime":null,"noTime":true,"note":null,"act":{"_type":"reference","_ref":"act-0"}}
+{"_id":"perf-48","_type":"performance","startTime":"2024-11-01T20:00:00.000Z","endTime":"2024-11-01T23:00:00.000Z","noTime":false,"note":"Piano in the lobby","act":{"_type":"reference","_ref":"act-23"}}
+{"_id":"perf-49","_type":"performance","startTime":"2024-11-03T00:30:00.000Z","endTime":"2024-11-03T02:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-27"}}
+{"_id":"perf-50","_type":"performance","startTime":"2024-11-06T23:30:00.000Z","endTime":"2024-11-07T01:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-16"}}
+{"_id":"perf-51","_type":"performance","startTime":"2024-11-07T23:30:00.000Z","endTime":"2024-11-08T01:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-0"}}
+{"_id":"perf-52","_type":"performance","startTime":"2024-11-09T00:00:00.000Z","endTime":"2024-11-09T02:30:00.000Z","noTime":false,"note":"Salsa night","act":{"_type":"reference","_ref":"act-24"}}
+{"_id":"perf-53","_type":"performance","startTime":"2024-11-10T01:30:00.000Z","endTime":"2024-11-10T03:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-28"}}
+{"_id":"perf-54","_type":"performance","startTime":"2024-11-13T23:30:00.000Z","endTime":"2024-11-14T01:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-16"}}
+{"_id":"perf-55","_type":"performance","startTime":"2024-11-14T23:30:00.000Z","endTime":"2024-11-15T01:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-0"}}
+{"_id":"perf-56","_type":"performance","startTime":"2024-11-17T01:30:00.000Z","endTime":"2024-11-17T03:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-29"}}
+{"_id":"perf-57","_type":"performance","startTime":"2024-11-20T23:30:00.000Z","endTime":"2024-11-21T01:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-16"}}
+{"_id":"perf-58","_type":"performance","startTime":"2024-11-21T23:30:00.000Z","endTime":"2024-11-22T01:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-0"}}
+{"_id":"perf-59","_type":"performance","startTime":"2024-11-23T00:00:00.000Z","endTime":"2024-11-23T02:30:00.000Z","noTime":false,"note":"Salsa night","act":{"_type":"reference","_ref":"act-24"}}
+{"_id":"perf-60","_type":"performance","startTime":"2024-11-24T01:30:00.000Z","endTime":"2024-11-24T03:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-30"}}
+{"_id":"perf-61","_type":"performance","startTime":"2024-12-01T01:30:00.000Z","endTime":"2024-12-01T03:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-31"}}
+{"_id":"perf-62","_type":"performance","startTime":"2024-12-04T23:30:00.000Z","endTime":"2024-12-05T01:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-32"}}
+{"_id":"perf-63","_type":"performance","startTime":"2024-12-05T23:30:00.000Z","endTime":"2024-12-06T01:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-0"}}
+{"_id":"perf-64","_type":"performance","startTime":"2024-12-06T23:30:00.000Z","endTime":"2024-12-07T02:30:00.000Z","noTime":false,"note":"on keyboard","act":{"_type":"reference","_ref":"act-33"}}
+{"_id":"perf-65","_type":"performance","startTime":"2024-12-08T01:30:00.000Z","endTime":"2024-12-08T03:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-34"}}
+{"_id":"perf-66","_type":"performance","startTime":"2024-12-11T23:30:00.000Z","endTime":"2024-12-12T01:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-32"}}
+{"_id":"perf-67","_type":"performance","startTime":"2024-12-12T23:30:00.000Z","endTime":"2024-12-13T01:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-0"}}
+{"_id":"perf-68","_type":"performance","startTime":"2024-12-13T23:30:00.000Z","endTime":"2024-12-14T02:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-21"}}
+{"_id":"perf-69","_type":"performance","startTime":"2024-12-15T00:30:00.000Z","endTime":"2024-12-15T03:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-35"}}
+{"_id":"perf-70","_type":"performance","startTime":"2024-12-18T23:30:00.000Z","endTime":"2024-12-19T01:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-16"}}
+{"_id":"perf-71","_type":"performance","startTime":"2024-12-19T23:30:00.000Z","endTime":"2024-12-20T01:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-0"}}
+{"_id":"perf-72","_type":"performance","startTime":"2024-12-20T23:30:00.000Z","endTime":"2024-12-21T02:30:00.000Z","noTime":false,"note":"on keyboard","act":{"_type":"reference","_ref":"act-33"}}
+{"_id":"perf-73","_type":"performance","startTime":"2024-12-21T00:00:00.000Z","endTime":"2024-12-21T03:00:00.000Z","noTime":false,"note":"Salsa night","act":{"_type":"reference","_ref":"act-24"}}
+{"_id":"perf-74","_type":"performance","startTime":"2024-12-22T00:30:00.000Z","endTime":"2024-12-22T03:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-36"}}
+{"_id":"perf-75","_type":"performance","startTime":"2024-12-26T23:30:00.000Z","endTime":"2024-12-27T01:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-0"}}
+{"_id":"perf-76","_type":"performance","startTime":"2024-12-27T23:30:00.000Z","endTime":"2024-12-28T02:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-21"}}
+{"_id":"perf-77","_type":"performance","startTime":"2024-12-29T00:30:00.000Z","endTime":"2024-12-29T03:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-11"}}
+{"_id":"perf-78","_type":"performance","startTime":"2025-01-01T00:00:00.000Z","endTime":"2025-01-01T05:00:00.000Z","noTime":false,"note":"New Years Bash!","act":{"_type":"reference","_ref":"act-37"}}
+{"_id":"perf-79","_type":"performance","startTime":"2025-01-02T23:30:00.000Z","endTime":"2025-01-03T01:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-32"}}
+{"_id":"perf-80","_type":"performance","startTime":"2025-01-03T23:30:00.000Z","endTime":"2025-01-04T02:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-21"}}
+{"_id":"perf-81","_type":"performance","startTime":"2025-01-04T22:30:00.000Z","endTime":"2025-01-05T00:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-4"}}
+{"_id":"perf-82","_type":"performance","startTime":"2025-01-05T00:30:00.000Z","endTime":"2025-01-05T03:00:00.000Z","noTime":false,"note":"with Jon Ladeau","act":{"_type":"reference","_ref":"act-10"}}
+{"_id":"perf-83","_type":"performance","startTime":"2025-01-10T23:30:00.000Z","endTime":"2025-01-11T02:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-20"}}
+{"_id":"perf-84","_type":"performance","startTime":"2025-01-11T22:30:00.000Z","endTime":"2025-01-12T00:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-38"}}
+{"_id":"perf-85","_type":"performance","startTime":"2025-01-12T00:30:00.000Z","endTime":"2025-01-12T03:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-39"}}
+{"_id":"perf-86","_type":"performance","startTime":"2025-01-16T23:30:00.000Z","endTime":"2025-01-17T01:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-32"}}
+{"_id":"perf-87","_type":"performance","startTime":"2025-01-17T23:30:00.000Z","endTime":"2025-01-18T02:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-20"}}
+{"_id":"perf-88","_type":"performance","startTime":"2025-01-18T22:30:00.000Z","endTime":"2025-01-19T00:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-40"}}
+{"_id":"perf-89","_type":"performance","startTime":"2025-01-19T00:30:00.000Z","endTime":"2025-01-19T03:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-29"}}
+{"_id":"perf-90","_type":"performance","startTime":"2025-01-23T23:30:00.000Z","endTime":"2025-01-24T01:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-32"}}
+{"_id":"perf-91","_type":"performance","startTime":"2025-01-24T23:30:00.000Z","endTime":"2025-01-25T02:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-25"}}
+{"_id":"perf-92","_type":"performance","startTime":"2025-01-25T22:30:00.000Z","endTime":"2025-01-26T00:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-41"}}
+{"_id":"perf-93","_type":"performance","startTime":"2025-01-26T00:30:00.000Z","endTime":"2025-01-26T03:00:00.000Z","noTime":false,"note":"feat. Diego Mongue Band","act":{"_type":"reference","_ref":"act-15"}}
+{"_id":"perf-94","_type":"performance","startTime":"2025-01-30T23:30:00.000Z","endTime":"2025-01-31T01:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-32"}}
+{"_id":"perf-95","_type":"performance","startTime":"2025-01-31T23:30:00.000Z","endTime":"2025-02-01T02:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-9"}}
+{"_id":"perf-96","_type":"performance","startTime":"2025-02-02T00:30:00.000Z","endTime":"2025-02-02T03:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-31"}}
+{"_id":"perf-97","_type":"performance","startTime":"2025-02-06T23:30:00.000Z","endTime":"2025-02-07T01:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-42"}}
+{"_id":"perf-98","_type":"performance","startTime":"2025-02-07T23:30:00.000Z","endTime":"2025-02-08T02:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-34"}}
+{"_id":"perf-99","_type":"performance","startTime":"2025-02-08T22:00:00.000Z","endTime":"2025-02-09T01:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-22"}}
+{"_id":"perf-100","_type":"performance","startTime":"2025-02-13T23:30:00.000Z","endTime":"2025-02-14T01:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-21"}}
+{"_id":"perf-101","_type":"performance","startTime":"2025-02-14T23:30:00.000Z","endTime":"2025-02-15T02:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-43"}}
+{"_id":"perf-102","_type":"performance","startTime":"2025-02-15T22:30:00.000Z","endTime":"2025-02-16T01:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-44"}}
+{"_id":"perf-103","_type":"performance","startTime":"2025-02-20T23:30:00.000Z","endTime":"2025-02-21T01:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-9"}}
+{"_id":"perf-104","_type":"performance","startTime":"2025-02-21T23:30:00.000Z","endTime":"2025-02-22T02:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-45"}}
+{"_id":"perf-105","_type":"performance","startTime":"2025-02-23T00:30:00.000Z","endTime":"2025-02-23T03:00:00.000Z","noTime":false,"note":"& Friends","act":{"_type":"reference","_ref":"act-5"}}
+{"_id":"perf-106","_type":"performance","startTime":"2025-02-27T23:00:00.000Z","endTime":"2025-02-28T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-0"}}
+{"_id":"perf-107","_type":"performance","startTime":"2025-03-01T00:00:00.000Z","endTime":"2025-03-01T03:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-25"}}
+{"_id":"perf-108","_type":"performance","startTime":"2025-03-02T00:00:00.000Z","endTime":"2025-03-02T03:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-46"}}
+{"_id":"perf-109","_type":"performance","startTime":"2025-03-06T23:00:00.000Z","endTime":"2025-03-07T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-47"}}
+{"_id":"perf-110","_type":"performance","startTime":"2025-03-08T00:00:00.000Z","endTime":"2025-03-08T03:00:00.000Z","noTime":false,"note":"feat. Hannah Bracken and Taylor Slonaker","act":{"_type":"reference","_ref":"act-48"}}
+{"_id":"perf-111","_type":"performance","startTime":"2025-03-09T00:00:00.000Z","endTime":"2025-03-09T03:00:00.000Z","noTime":false,"note":"feat. Diego Mongue Band","act":{"_type":"reference","_ref":"act-15"}}
+{"_id":"perf-112","_type":"performance","startTime":"2025-03-13T22:00:00.000Z","endTime":"2025-03-14T01:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-0"}}
+{"_id":"perf-113","_type":"performance","startTime":"2025-03-14T23:00:00.000Z","endTime":"2025-03-15T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-27"}}
+{"_id":"perf-114","_type":"performance","startTime":"2025-03-15T23:00:00.000Z","endTime":"2025-03-16T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-49"}}
+{"_id":"perf-115","_type":"performance","startTime":"2025-03-19T22:30:00.000Z","endTime":"2025-03-20T00:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-16"}}
+{"_id":"perf-116","_type":"performance","startTime":"2025-03-20T22:00:00.000Z","endTime":"2025-03-21T01:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-9"}}
+{"_id":"perf-117","_type":"performance","startTime":"2025-03-21T23:00:00.000Z","endTime":"2025-03-22T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-50"}}
+{"_id":"perf-118","_type":"performance","startTime":"2025-03-22T23:00:00.000Z","endTime":"2025-03-23T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-51"}}
+{"_id":"perf-119","_type":"performance","startTime":"2025-03-27T22:00:00.000Z","endTime":"2025-03-28T01:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-42"}}
+{"_id":"perf-120","_type":"performance","startTime":"2025-03-28T23:00:00.000Z","endTime":"2025-03-29T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-25"}}
+{"_id":"perf-121","_type":"performance","startTime":"2025-03-29T23:00:00.000Z","endTime":"2025-03-30T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-52"}}
+{"_id":"perf-122","_type":"performance","startTime":"2025-04-10T22:00:00.000Z","endTime":"2025-04-11T01:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-9"}}
+{"_id":"perf-123","_type":"performance","startTime":"2025-04-11T23:00:00.000Z","endTime":"2025-04-12T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-22"}}
+{"_id":"perf-124","_type":"performance","startTime":"2025-04-12T23:00:00.000Z","endTime":"2025-04-13T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-27"}}
+{"_id":"perf-125","_type":"performance","startTime":"2025-04-17T22:00:00.000Z","endTime":"2025-04-18T01:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-0"}}
+{"_id":"perf-126","_type":"performance","startTime":"2025-04-18T23:00:00.000Z","endTime":"2025-04-19T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-34"}}
+{"_id":"perf-127","_type":"performance","startTime":"2025-04-19T23:00:00.000Z","endTime":"2025-04-20T02:00:00.000Z","noTime":false,"note":"with Wanda Houston","act":{"_type":"reference","_ref":"act-25"}}
+{"_id":"perf-128","_type":"performance","startTime":"2025-04-24T22:00:00.000Z","endTime":"2025-04-25T01:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-0"}}
+{"_id":"perf-129","_type":"performance","startTime":"2025-04-25T23:00:00.000Z","endTime":"2025-04-26T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-31"}}
+{"_id":"perf-130","_type":"performance","startTime":"2025-04-26T23:00:00.000Z","endTime":"2025-04-27T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-29"}}
+{"_id":"perf-131","_type":"performance","startTime":"2025-05-01T22:00:00.000Z","endTime":"2025-05-02T01:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-53"}}
+{"_id":"perf-132","_type":"performance","startTime":"2025-05-02T23:00:00.000Z","endTime":"2025-05-03T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-27"}}
+{"_id":"perf-133","_type":"performance","startTime":"2025-05-03T23:00:00.000Z","endTime":"2025-05-04T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-54"}}
+{"_id":"perf-134","_type":"performance","startTime":"2025-05-07T22:00:00.000Z","endTime":"2025-05-08T01:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-16"}}
+{"_id":"perf-135","_type":"performance","startTime":"2025-05-08T22:00:00.000Z","endTime":"2025-05-09T01:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-9"}}
+{"_id":"perf-136","_type":"performance","startTime":"2025-05-09T23:00:00.000Z","endTime":"2025-05-10T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-22"}}
+{"_id":"perf-137","_type":"performance","startTime":"2025-05-10T23:00:00.000Z","endTime":"2025-05-11T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-55"}}
+{"_id":"perf-138","_type":"performance","startTime":"2025-05-14T22:00:00.000Z","endTime":"2025-05-15T01:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-16"}}
+{"_id":"perf-139","_type":"performance","startTime":"2025-05-15T22:00:00.000Z","endTime":"2025-05-16T01:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-0"}}
+{"_id":"perf-140","_type":"performance","startTime":"2025-05-16T23:00:00.000Z","endTime":"2025-05-17T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-48"}}
+{"_id":"perf-141","_type":"performance","startTime":"2025-05-17T23:00:00.000Z","endTime":"2025-05-18T02:00:00.000Z","noTime":false,"note":"incl. the return of Johnny Irion!","act":{"_type":"reference","_ref":"act-56"}}
+{"_id":"perf-142","_type":"performance","startTime":"2025-05-21T22:00:00.000Z","endTime":"2025-05-22T01:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-16"}}
+{"_id":"perf-143","_type":"performance","startTime":"2025-05-22T22:00:00.000Z","endTime":"2025-05-23T01:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-42"}}
+{"_id":"perf-144","_type":"performance","startTime":"2025-05-23T23:00:00.000Z","endTime":"2025-05-24T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-31"}}
+{"_id":"perf-145","_type":"performance","startTime":"2025-05-24T23:00:00.000Z","endTime":"2025-05-25T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-51"}}
+{"_id":"perf-146","_type":"performance","startTime":"2025-05-28T22:00:00.000Z","endTime":"2025-05-29T01:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-16"}}
+{"_id":"perf-147","_type":"performance","startTime":"2025-05-29T22:00:00.000Z","endTime":"2025-05-30T01:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-57"}}
+{"_id":"perf-148","_type":"performance","startTime":"2025-05-30T23:00:00.000Z","endTime":"2025-05-31T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-58"}}
+{"_id":"perf-149","_type":"performance","startTime":"2025-05-31T23:00:00.000Z","endTime":"2025-06-01T02:00:00.000Z","noTime":false,"note":"feat. Tory Hanna","act":{"_type":"reference","_ref":"act-59"}}
+{"_id":"perf-150","_type":"performance","startTime":"2025-06-04T22:00:00.000Z","endTime":"2025-06-05T01:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-16"}}
+{"_id":"perf-151","_type":"performance","startTime":"2025-06-05T22:00:00.000Z","endTime":"2025-06-06T01:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-51"}}
+{"_id":"perf-152","_type":"performance","startTime":"2025-06-06T23:00:00.000Z","endTime":"2025-06-07T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-27"}}
+{"_id":"perf-153","_type":"performance","startTime":"2025-06-07T23:00:00.000Z","endTime":"2025-06-08T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-60"}}
+{"_id":"perf-154","_type":"performance","startTime":"2025-06-11T22:00:00.000Z","endTime":"2025-06-12T01:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-16"}}
+{"_id":"perf-155","_type":"performance","startTime":"2025-06-12T22:00:00.000Z","endTime":"2025-06-13T01:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-61"}}
+{"_id":"perf-156","_type":"performance","startTime":"2025-06-13T23:00:00.000Z","endTime":"2025-06-14T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-22"}}
+{"_id":"perf-157","_type":"performance","startTime":"2025-06-14T23:00:00.000Z","endTime":"2025-06-15T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-49"}}
+{"_id":"perf-158","_type":"performance","startTime":"2025-06-18T22:00:00.000Z","endTime":"2025-06-19T01:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-6"}}
+{"_id":"perf-159","_type":"performance","startTime":"2025-06-19T22:00:00.000Z","endTime":"2025-06-20T01:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-62"}}
+{"_id":"perf-160","_type":"performance","startTime":"2025-06-20T23:00:00.000Z","endTime":"2025-06-21T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-63"}}
+{"_id":"perf-161","_type":"performance","startTime":"2025-06-21T23:00:00.000Z","endTime":"2025-06-22T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-15"}}
+{"_id":"perf-162","_type":"performance","startTime":"2025-06-25T22:00:00.000Z","endTime":"2025-06-26T01:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-16"}}
+{"_id":"perf-163","_type":"performance","startTime":"2025-06-26T22:00:00.000Z","endTime":"2025-06-27T01:00:00.000Z","noTime":false,"note":"with Jon Ladeau","act":{"_type":"reference","_ref":"act-10"}}
+{"_id":"perf-164","_type":"performance","startTime":"2025-06-27T23:00:00.000Z","endTime":"2025-06-28T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-52"}}
+{"_id":"perf-165","_type":"performance","startTime":"2025-06-28T23:00:00.000Z","endTime":"2025-06-29T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-64"}}
+{"_id":"perf-166","_type":"performance","startTime":"2025-07-02T23:00:00.000Z","endTime":"2025-07-03T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-16"}}
+{"_id":"perf-167","_type":"performance","startTime":"2025-07-03T19:30:00.000Z","endTime":"2025-07-03T22:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-60"}}
+{"_id":"perf-168","_type":"performance","startTime":"2025-07-04T19:30:00.000Z","endTime":"2025-07-04T22:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-65"}}
+{"_id":"perf-169","_type":"performance","startTime":"2025-07-05T23:00:00.000Z","endTime":"2025-07-06T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-31"}}
+{"_id":"perf-170","_type":"performance","startTime":"2025-07-09T22:30:00.000Z","endTime":"2025-07-10T01:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-16"}}
+{"_id":"perf-171","_type":"performance","startTime":"2025-07-10T23:00:00.000Z","endTime":"2025-07-11T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-51"}}
+{"_id":"perf-172","_type":"performance","startTime":"2025-07-11T23:00:00.000Z","endTime":"2025-07-12T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-66"}}
+{"_id":"perf-173","_type":"performance","startTime":"2025-07-12T23:00:00.000Z","endTime":"2025-07-13T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-49"}}
+{"_id":"perf-174","_type":"performance","startTime":"2025-07-16T22:30:00.000Z","endTime":"2025-07-17T01:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-16"}}
+{"_id":"perf-175","_type":"performance","startTime":"2025-07-17T23:00:00.000Z","endTime":"2025-07-18T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-67"}}
+{"_id":"perf-176","_type":"performance","startTime":"2025-07-18T23:00:00.000Z","endTime":"2025-07-19T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-31"}}
+{"_id":"perf-177","_type":"performance","startTime":"2025-07-19T23:00:00.000Z","endTime":"2025-07-20T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-60"}}
+{"_id":"perf-178","_type":"performance","startTime":"2025-07-23T22:30:00.000Z","endTime":"2025-07-24T01:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-16"}}
+{"_id":"perf-179","_type":"performance","startTime":"2025-07-24T23:00:00.000Z","endTime":"2025-07-25T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-61"}}
+{"_id":"perf-180","_type":"performance","startTime":"2025-07-25T23:00:00.000Z","endTime":"2025-07-26T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-59"}}
+{"_id":"perf-181","_type":"performance","startTime":"2025-07-26T23:00:00.000Z","endTime":"2025-07-27T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-54"}}
+{"_id":"perf-182","_type":"performance","startTime":"2025-07-30T22:30:00.000Z","endTime":"2025-07-31T01:30:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-16"}}
+{"_id":"perf-183","_type":"performance","startTime":"2025-07-31T23:00:00.000Z","endTime":"2025-08-01T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-62"}}
+{"_id":"perf-184","_type":"performance","startTime":"2025-08-01T23:00:00.000Z","endTime":"2025-08-02T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-68"}}
+{"_id":"perf-185","_type":"performance","startTime":"2025-08-02T23:00:00.000Z","endTime":"2025-08-03T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-69"}}
+{"_id":"perf-186","_type":"performance","startTime":"2025-08-06T23:00:00.000Z","endTime":"2025-08-07T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-51"}}
+{"_id":"perf-187","_type":"performance","startTime":"2025-08-07T23:00:00.000Z","endTime":"2025-08-08T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-70"}}
+{"_id":"perf-188","_type":"performance","startTime":"2025-08-08T23:00:00.000Z","endTime":"2025-08-09T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-54"}}
+{"_id":"perf-189","_type":"performance","startTime":"2025-08-09T23:00:00.000Z","endTime":"2025-08-10T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-31"}}
+{"_id":"perf-190","_type":"performance","startTime":"2025-08-13T23:00:00.000Z","endTime":"2025-08-14T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-71"}}
+{"_id":"perf-191","_type":"performance","startTime":"2025-08-14T23:00:00.000Z","endTime":"2025-08-15T02:00:00.000Z","noTime":false,"note":"feat. Tory Hanna","act":{"_type":"reference","_ref":"act-25"}}
+{"_id":"perf-192","_type":"performance","startTime":"2025-08-15T23:00:00.000Z","endTime":"2025-08-16T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-72"}}
+{"_id":"perf-193","_type":"performance","startTime":"2025-08-16T23:00:00.000Z","endTime":"2025-08-17T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-58"}}
+{"_id":"perf-194","_type":"performance","startTime":"2025-08-20T23:00:00.000Z","endTime":"2025-08-21T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-73"}}
+{"_id":"perf-195","_type":"performance","startTime":"2025-08-21T23:00:00.000Z","endTime":"2025-08-22T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-74"}}
+{"_id":"perf-196","_type":"performance","startTime":"2025-08-23T23:00:00.000Z","endTime":"2025-08-24T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-60"}}
+{"_id":"perf-197","_type":"performance","startTime":"2025-08-27T23:00:00.000Z","endTime":"2025-08-28T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-65"}}
+{"_id":"perf-198","_type":"performance","startTime":"2025-08-28T23:00:00.000Z","endTime":"2025-08-29T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-27"}}
+{"_id":"perf-199","_type":"performance","startTime":"2025-08-29T23:00:00.000Z","endTime":"2025-08-30T02:00:00.000Z","noTime":false,"note":null,"act":{"_type":"reference","_ref":"act-50"}}

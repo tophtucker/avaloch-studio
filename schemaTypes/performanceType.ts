@@ -17,6 +17,12 @@ export const performanceType = defineType({
       title: 'End date and time',
     }),
     defineField({
+      name: 'noTime',
+      type: 'boolean',
+      title: 'Don’t show time',
+      description: 'Check for all-day events or events with unknown start time',
+    }),
+    defineField({
       name: 'act',
       type: 'reference',
       to: [{type: 'act'}],
