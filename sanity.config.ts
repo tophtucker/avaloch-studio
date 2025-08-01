@@ -8,7 +8,7 @@ export default defineConfig({
   title: 'Avaloch',
 
   projectId: 'lxtjf1cx',
-  dataset: 'production',
+  dataset: 'prod',
 
   plugins: [structureTool(), visionTool()],
 

@@ -24,6 +24,12 @@ export const bulletinType = defineType({
       validation: (rule) => rule.required(),
     }),
     defineField({
+      name: 'urgent',
+      type: 'boolean',
+      title: 'Urgent',
+      description: 'Show bulletin prominently at top of every page',
+    }),
+    defineField({
       name: 'details',
       type: 'array',
       of: [{type: 'block'}],

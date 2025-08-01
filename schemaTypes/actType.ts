@@ -21,6 +21,11 @@ export const actType = defineType({
       type: 'image',
     }),
     defineField({
+      name: 'youtube',
+      title: 'YouTube video URL',
+      type: 'url',
+    }),
+    defineField({
       name: 'description',
       type: 'array',
       of: [{type: 'block'}],

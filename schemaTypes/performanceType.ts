@@ -6,7 +6,7 @@ export const performanceType = defineType({
   title: 'Performance',
   fields: [
     defineField({
-      name: 'time',
+      name: 'startTime',
       type: 'datetime',
       title: 'Date and time',
       validation: (rule) => rule.required(),
@@ -30,13 +30,13 @@ export const performanceType = defineType({
   orderings: [
     {
       title: 'Time, newest',
-      name: 'endTimeDesc',
-      by: [{field: 'endTime', direction: 'desc'}],
+      name: 'startTimeDesc',
+      by: [{field: 'startTime', direction: 'desc'}],
     },
     {
       title: 'Time, oldest',
-      name: 'endTimeAsc',
-      by: [{field: 'endTime', direction: 'asc'}],
+      name: 'startTimeAsc',
+      by: [{field: 'startTime', direction: 'asc'}],
     },
     {
       title: 'Note, A-Z',
@@ -46,7 +46,7 @@ export const performanceType = defineType({
   ],
   preview: {
     select: {
-      date: 'time',
+      date: 'startTime',
       actName: 'act.name',
     },
     prepare({date, actName}) {
