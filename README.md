@@ -1,9 +1,9 @@
-# Sanity Clean Content Studio
+# Avaloch CMS
 
-Congratulations, you have now installed the Sanity Content Studio, an open-source real-time content editing environment connected to the Sanity backend.
+The CMS for the [Apple Tree Inn](https://appletreeinnlenox.com/) ([repo](https://github.com/tophtucker/appletreeinn/)), based on [Sanity](https://www.sanity.io/).
 
-Now you can do the following things:
+To import new data:
 
-- [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
-- [Join the community Slack](https://snty.link/community/?utm_source=readme)
-- [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
+```
+npx sanity dataset import sanity_import_2025-08-01.ndjson prod
+```
