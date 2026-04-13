@@ -6,8 +6,8 @@ export const galleryType = defineType({
   type: 'document',
   fields: [
     defineField({
-      name: 'text',
-      title: 'Text',
+      name: 'name',
+      title: 'Name',
       type: 'string',
       validation: (rule) => rule.required(),
     }),
