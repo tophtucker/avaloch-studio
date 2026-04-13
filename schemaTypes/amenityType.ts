@@ -15,6 +15,7 @@ export const amenityType = defineType({
       name: 'badge',
       title: 'Badge',
       type: 'string',
+      description: 'Show asterisk and short gray notice next to name, e.g. “Summer only”',
     }),
     defineField({
       name: 'description',
