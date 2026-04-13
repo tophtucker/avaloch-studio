@@ -21,6 +21,7 @@ export const galleryType = defineType({
             defineField({
               name: 'image',
               type: 'image',
+              validation: (rule) => rule.required(),
             }),
             defineField({
               name: 'caption',
