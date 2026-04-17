@@ -18,9 +18,38 @@ export const placeType = defineType({
       rows: 4,
     }),
     defineField({
+      name: 'gmaps',
+      title: 'Google Maps link',
+      type: 'url',
+    }),
+    defineField({
+      name: 'website',
+      title: 'Website',
+      type: 'url',
+    }),
+    defineField({
       name: 'address',
-      title: 'Street address',
-      type: 'string',
+      title: 'Address',
+      type: 'object',
+      fields: [
+        defineField({
+          name: 'street',
+          title: 'Street address',
+          type: 'string',
+        }),
+        defineField({
+          name: 'city',
+          title: 'City',
+          type: 'string',
+        }),
+        defineField({
+          name: 'state',
+          title: 'State',
+          type: 'string',
+          initialValue: 'MA',
+        }),
+      ],
+      options: {columns: 3},
     }),
     defineField({
       name: 'coordinates',
@@ -46,7 +75,7 @@ export const placeType = defineType({
   preview: {
     select: {
       title: 'name',
-      subtitle: 'address',
+      subtitle: 'street',
     },
   },
 })
