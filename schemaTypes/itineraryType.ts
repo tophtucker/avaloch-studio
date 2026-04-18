@@ -45,6 +45,7 @@ export const itineraryType = defineType({
   preview: {
     select: {
       title: 'title',
+      subtitle: 'body',
     },
   },
 })

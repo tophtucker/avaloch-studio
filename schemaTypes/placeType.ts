@@ -52,6 +52,13 @@ export const placeType = defineType({
       options: {columns: 3},
     }),
     defineField({
+      name: 'tags',
+      title: 'Tags',
+      type: 'array',
+      of: [{type: 'string'}],
+      options: {layout: 'tags'},
+    }),
+    defineField({
       name: 'coordinates',
       title: 'Coordinates',
       type: 'object',
@@ -75,7 +82,7 @@ export const placeType = defineType({
   preview: {
     select: {
       title: 'name',
-      subtitle: 'street',
+      subtitle: 'address.city',
     },
   },
 })
