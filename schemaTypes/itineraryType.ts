@@ -41,6 +41,13 @@ export const itineraryType = defineType({
         }),
       ],
     }),
+    defineField({
+      name: 'priority',
+      title: 'Priority',
+      type: 'number',
+      description: 'Itineraries display in order of priority, 1–10',
+      validation: (rule) => rule.min(1).max(10).integer(),
+    }),
   ],
   preview: {
     select: {
