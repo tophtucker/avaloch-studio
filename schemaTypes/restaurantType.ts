@@ -16,7 +16,7 @@ const disableIfClosed: ConditionalProperty = ({parent}) => !!(parent && parent.c
 
 export const restaurantType = defineType({
   name: 'restaurant',
-  title: 'Restaurant',
+  title: 'Hours',
   type: 'document',
   fields: [
     defineField({
@@ -122,6 +122,18 @@ export const restaurantType = defineType({
           },
         }),
       ],
+    }),
+    defineField({
+      name: 'startDate',
+      type: 'date',
+      title: 'Start of normal hours',
+      description: 'The first day on which the normal hours are valid; the opening day.',
+    }),
+    defineField({
+      name: 'endDate',
+      type: 'date',
+      title: 'End of normal hours',
+      description: 'The last day on which the normal hours are valid; the closing day.',
     }),
   ],
 })
