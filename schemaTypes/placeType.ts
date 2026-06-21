@@ -4,6 +4,15 @@ export const placeType = defineType({
   name: 'place',
   title: 'Place',
   type: 'document',
+  fieldsets: [
+    {
+      name: 'autoPopulated',
+      title: 'Automatically populated',
+      description:
+        'These fields are updated weekly from the Google Maps link. Manual edits will be overwritten.',
+      options: {collapsible: true, collapsed: false},
+    },
+  ],
   fields: [
     defineField({
       name: 'name',
@@ -12,25 +21,37 @@ export const placeType = defineType({
       validation: (rule) => rule.required(),
     }),
     defineField({
+      name: 'gmaps',
+      title: 'Google Maps link',
+      type: 'url',
+      description: 'Used to automatically populate the fields below.',
+    }),
+    defineField({
       name: 'description',
       title: 'Description',
       type: 'text',
       rows: 4,
     }),
     defineField({
-      name: 'gmaps',
-      title: 'Google Maps link',
-      type: 'url',
+      name: 'tags',
+      title: 'Tags',
+      type: 'array',
+      of: [{type: 'string'}],
+      options: {layout: 'tags'},
     }),
+
+    // Automatically populated fields
     defineField({
       name: 'website',
       title: 'Website',
       type: 'url',
+      fieldset: 'autoPopulated',
     }),
     defineField({
       name: 'address',
       title: 'Address',
       type: 'object',
+      fieldset: 'autoPopulated',
       fields: [
         defineField({
           name: 'street',
@@ -57,16 +78,10 @@ export const placeType = defineType({
       options: {columns: 2},
     }),
     defineField({
-      name: 'tags',
-      title: 'Tags',
-      type: 'array',
-      of: [{type: 'string'}],
-      options: {layout: 'tags'},
-    }),
-    defineField({
       name: 'coordinates',
       title: 'Coordinates',
       type: 'object',
+      fieldset: 'autoPopulated',
       fields: [
         defineField({
           name: 'latitude',
