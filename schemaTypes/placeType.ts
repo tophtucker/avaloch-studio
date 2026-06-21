@@ -30,7 +30,13 @@ export const placeType = defineType({
       name: 'description',
       title: 'Description',
       type: 'text',
-      rows: 4,
+      rows: 1,
+    }),
+    defineField({
+      name: 'details',
+      title: 'Details',
+      type: 'text',
+      rows: 2,
     }),
     defineField({
       name: 'tags',
