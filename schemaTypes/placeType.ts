@@ -48,8 +48,13 @@ export const placeType = defineType({
           type: 'string',
           initialValue: 'MA',
         }),
+        defineField({
+          name: 'zip',
+          title: 'ZIP code',
+          type: 'string',
+        }),
       ],
-      options: {columns: 3},
+      options: {columns: 2},
     }),
     defineField({
       name: 'tags',
